@@ -9,3 +9,6 @@
     document.getElementById('result-box').appendChild(h1);
     
    }
+   function reset() {
+document.getElementById('ageInDays').remove();
+   }
